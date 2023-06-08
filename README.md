@@ -1,1 +1,2 @@
 # House_Price_Advanced_Regression_Techniques
+This is a project that includes extensive EDA performed on the House Price dataset, figuring out various hidden pattern describing the relationship between various independent and dependent variable. Moreover it includes feature engineering, data transformation and feature scaling so that it can be used for further analysis and building a ML model in future.
